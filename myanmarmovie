@@ -1,10 +1,7 @@
 [
-  {"name":"Mahar",
-"image":"https://i.imgur.com/xVLrHk5.png",
-"link":"https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8"},
-
-  {"name":"Channel7",
-"image":"https://i.imgur.com/50FfdEG.jpg",
-"link":"https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1219941265.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDI0IDU6NTM6MDUgUE0maGFzaF92YWx1ZT1QeENHQXQ1WnZEUFZhakw5YzRKU2dRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE1"}
+  {"movietitle":"Abc",
+  "description":"​ေရှက​ေနပါသည်",
+"movie_img":"https://i.imgur.com/50FfdEG.jpg",
+"link":"https://i.imgur.com/xVLrHk5.png"}
 
 ]
